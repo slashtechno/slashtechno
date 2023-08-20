@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm slashtechno</h1>
-<h3 align="center">A beginner developer who likes to tinker with technology</h3>
+<h3 align="center">An aspiring developer who likes to tinker with technology</h3>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python**  
+- - 🔭 I’m currently working on self-hosting various software  
 
 - 📝 I (sometimes) write articles on [https://slashtechno.com](https://slashtechno.com)
 
