@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm slashtechno</h1>
-<h3 align="center">An aspiring developer who likes to tinker with technology</h3>
+<h1 align="center">Hi 👋, I'm Angad!</h1>
+<h3 align="center">I’m a student and an aspiring software developer who loves tinkering with all things technology, especially self-hosting and open-source software.</h3>
+<div align="center"><a href="https://fosstodon.org/@slashtechno"><img alt="link to Mastodon" src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white"></a></div>
 
-- 🌱 I’m currently learning **Python**  
-- - 🔭 I’m currently working on self-hosting various software  
-
-- 📝 I (sometimes) write articles on [https://slashtechno.com](https://slashtechno.com)
+- 🌱 I’m currently learning about databases
+- 📝 I write articles on [angad.me](https://angad.me)
+- 🔭 I like working with LLMs and APIs
 
 
 <h3 align="left">Languages and Tools:</h3>
