@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Angad!</h1>
 <h3 align="center">I’m a student and an aspiring software developer who loves tinkering with all things technology, especially self-hosting and open-source software.</h3>
-<div align="center"><a href="https://fosstodon.org/@slashtechno"><img alt="link to Mastodon" src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white"></a></div>
+<div align="center">
+    <a href="https://fosstodon.org/@slashtechno">
+        <img alt="link to Mastodon" src="https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white">
+    </a>
+    <a href="https://angad.me">
+        <img alt="link to website" src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge">
+    </a>
+    <a href="https://github.com/slashtechno">
+        <img alt="link to GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+</div>
 
 - 🌱 I’m currently learning about databases
 - 📝 I write articles on [angad.me](https://angad.me)
