@@ -10,17 +10,12 @@
     <a href="https://github.com/slashtechno">
         <img alt="link to GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
     </a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=slashtechno&show_icons=true&theme=merko&locale=en" alt="slashtechno" /></p>
+
+I’m Angad Behl. I’m currently a high school student and have been interested in computer science for as long as I can remember. I started programming when I was six years old and have been doing it since. Right now, I’m focusing on publishing open-source software and building my portfolio.
+
 </div>
 
-- 🌱 I’m currently learning about databases
-- 📝 I write articles on [angad.me](https://angad.me)
-- 🔭 I like working with LLMs and APIs
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=slashtechno&show_icons=true&theme=merko&locale=en" alt="slashtechno" /></p>
 
 
 
